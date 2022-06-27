@@ -19,8 +19,8 @@ banner = """
                                                                                            
                                                                                            
                                                                                 by-Discodancer212
-             Coded By :- DISCODANCER
- Github   :-www.github.com/DISCODANCER212
+             Modded By :- trhacknon 
+ Github   :-www.github.com/trhacknon 
  
 
  """
